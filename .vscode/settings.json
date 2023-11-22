@@ -1,0 +1,18 @@
+{
+  "Lua.diagnostics.globals": [
+    "__Profiler",
+    "__DebugAdapter"
+  ],
+  "Lua.runtime.builtin": {
+    "io": "disable",
+    "os": "disable",
+    "math": "disable",
+    "debug": "disable",
+    "coroutine": "disable",
+    "package": "disable"
+  },
+  "Lua.runtime.version": "Lua 5.2",
+  "Lua.runtime.special": {
+    "__object_name": "type"
+  }
+}
