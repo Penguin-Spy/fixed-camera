@@ -1,3 +1,7 @@
+--[[ control.lua © Penguin_Spy 2023
+  fixed camera updating & state switching
+]]
+
 util = require "util"
 local GUI = require "scripts.gui"
 

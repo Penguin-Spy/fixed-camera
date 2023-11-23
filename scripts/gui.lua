@@ -1,3 +1,7 @@
+--[[ scripts/gui.lua © Penguin_Spy 2023
+  manages the fake health/mining/shield progressbars on the HUD
+]]
+
 local GUI = {}
 
 local hud_flow_name = "fixed_camera_hud_flow"

@@ -1,3 +1,7 @@
+--[[ data.lua © Penguin_Spy 2023
+  creates an invisible, uninteractable character with 0 movement speed to keep the player's camera in one spot
+]]
+
 local blank_animation = {
   filename = "__fixed-camera__/graphics/empty.png",
   direction_count = 18,
